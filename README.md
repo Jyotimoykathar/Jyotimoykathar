@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jyotimoy
 - 👀 I’m interested in WebDesign
-- 🌱 I’m currently learning JavaScript/Php
+- 🌱 I’m currently learning JavaScript/Node
 - 💞️ I’m looking to collaborate on Projects
 - 📫 jyotimoykatharon@gmail.com is my mail id.
 
